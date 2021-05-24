@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mallovelli
+- 👋 Hi, I’m Malloy Okon
 - 👀 I’m interested in web-dev, UX/UI, software development.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web development projects for now
