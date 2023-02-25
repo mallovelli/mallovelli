@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malloy Okon
-- 👀 I’m interested in Front End development and UX design
-- 🌱 I’m currently working on learning swift/swift UI
-- 💞️ I’m looking to collaborate on Front End projects, as I'm currently looking for gigs
+- 👀 I’m interested in Front End development and UI design
+- 🌱 I’m currently learning Vue 3
+- 💞️ I’m looking to collaborate on design projects
 - 📫 Reach me via email (mokut.okon4@gmail.com)
 
 <!---
